@@ -1,6 +1,6 @@
 
 
-Baihua Wu
+#### **Baihua Wu**
 
 PhD candidate 
 
@@ -16,6 +16,19 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 
 
 
+## Education/Work Experience
+
+- 2019-present, PhD candidate in Theoretical Chemistry, College of Chemistry and Molecular Engineering, Peking University. Advisor: Prof. Jian Liu
+- 2015-2019, B.S., double major in Chemistry and Mathematics, University of Science and Technology Beijing. Advisor: Prof. Feiwu Chen 
+
+
+
+## Research Interests
+
+* Phase space mapping theory of quantum mechanics
+* Trajectory-based nonadiabatic dynamics
+* Electronic structure theory and its applications
+
 
 
 ## Publications:
@@ -29,3 +42,16 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 5. Xin He†, Zhihao Gong†, **Baihua Wu**, and Jian Liu*, "Negative Zero-Point-Energy Parameter in the Meyer–Miller Mapping Model for Nonadiabatic Dynamics", Journal of Physical Chemistry Letters, 12, 2496–2501 (2021) [https://pubs.acs.org/doi/full/10.1021/acs.jpclett.1c00232] 
 
  
+
+## Honors & Awards
+
+* Wei-wing Lee Scholarship, Peking University, 2021
+* Best Poster Award of 15-th National Conference of Chemical Dynamics, 2022
+
+
+
+## Teaching
+
+* TA, *Quantum Chemistry*, PKU, 2022 Spring
+* TA, *Advanced Physical Chemistry*, PKU, 2021 Fall
+* TA, *Theoretical and Computational Chemistry II*, PKU, 2020 Fall
