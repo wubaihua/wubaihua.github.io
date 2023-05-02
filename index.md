@@ -1,7 +1,18 @@
-@@ -1,37 +1 @@
-## Hello!
 
-Welcome to my website.
+
+Baihua Wu
+
+PhD candidate 
+
+Institute of Theoretical Chemistry
+
+College of Chemistry and Molecular Engineering
+
+Peking University
+
+Beijing 100871, China
+
+Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 
 
 
