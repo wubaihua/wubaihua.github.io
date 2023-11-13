@@ -53,12 +53,12 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 (†: co-first authors; \*: corresponding author)
 
 1. Jie Peng†, Xin He†, Yao Li, Jianxin Guan, **Baihua Wu**, Xinmao Li, Zhihao Yu, Jian Liu\*, Junrong Zheng\*, "Restriction of Crossing Conical Intersections: The Intrinsic Mechanism of Aggregation-Induced Emission", *Physical Chemistry Chemical Physics*, 2023, 25, 12342 [link](https://doi.org/10.1039/d2cp05256c)
-1. **Baihua Wu†**, Xin He†, Jian Liu*, "Phase Space Mapping Theory for Nonadiabatic Quantum Molecular Dynamics", Volume on *Time-Dependent Density Functional Theory: Nonadiabatic Molecular Dynamics*, Jenny Stanford Publishing, 2022 [link](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003319214-11/)phase-space-mapping-theory-nonadiabatic-quantum-molecular-dynamics-baihua-wu-xin-jian-liu?context=ubx&refId=ea504230-713f-4ec5-a7f9-463c55d533cf
+1. **Baihua Wu†**, Xin He†, Jian Liu\*, "Phase Space Mapping Theory for Nonadiabatic Quantum Molecular Dynamics", Volume on *Time-Dependent Density Functional Theory: Nonadiabatic Molecular Dynamics*, Jenny Stanford Publishing, 2022 [link](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003319214-11/)
 1. Xin He† , **Baihua Wu†**, Tom Rivlin, Jian Liu\*, Eli Pollak\*, "Transition Path Flight Times and Nonadiabatic Electronic Transitions", *Journal of Physical Chemistry Letters*, 2022, 13, 30, 6966-6974 [link](https://pubs.acs.org/doi/10.1021/acs.jpclett.2c01425)
-2. Xin He†, **Baihua Wu†** Youhao Shang, Bingqi Li, Xiangsong Cheng, Jian Liu*, "New Phase Space Formulations and Quantum Dynamics Approaches", *Wiley Interdisciplinary Reviews-Computational Molecular Science*, 2022, 12, e1619 [link](https://doi.org/10.1002/wcms.1619) 
-3. Jian Liu*, Xin He, **Baihua Wu**, "Unified formulation for phase space mapping models for nonadiabatic quantum dynamics", *Accounts of Chemical Research*, 2021, 54, 23, 4215–4228 [link](https://doi.org/10.1021/acs.accounts.1c00511) 
-4. Xin He, **Baihua Wu**, Zhihao Gong, Jian Liu*, "Commutator Matrix in Phase Space Mapping Models for Nonadiabatic Quantum Dynamics", *Journal of Physical Chemistry A*, 2021, 125, 31, 6845–6863 [link](https://doi.org/10.1021/acs.jpca.1c04429) 
-5. Xin He†, Zhihao Gong†, **Baihua Wu**, and Jian Liu*, "Negative Zero-Point-Energy Parameter in the Meyer–Miller Mapping Model for Nonadiabatic Dynamics", *Journal of Physical Chemistry Letters*, 2021, 12, 2496–2501 [link](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.1c00232) 
+2. Xin He†, **Baihua Wu†** Youhao Shang, Bingqi Li, Xiangsong Cheng, Jian Liu\*, "New Phase Space Formulations and Quantum Dynamics Approaches", *Wiley Interdisciplinary Reviews-Computational Molecular Science*, 2022, 12, e1619 [link](https://doi.org/10.1002/wcms.1619) 
+3. Jian Liu\*, Xin He, **Baihua Wu**, "Unified formulation for phase space mapping models for nonadiabatic quantum dynamics", *Accounts of Chemical Research*, 2021, 54, 23, 4215–4228 [link](https://doi.org/10.1021/acs.accounts.1c00511) 
+4. Xin He, **Baihua Wu**, Zhihao Gong, Jian Liu\*, "Commutator Matrix in Phase Space Mapping Models for Nonadiabatic Quantum Dynamics", *Journal of Physical Chemistry A*, 2021, 125, 31, 6845–6863 [link](https://doi.org/10.1021/acs.jpca.1c04429) 
+5. Xin He†, Zhihao Gong†, **Baihua Wu**, and Jian Liu\*, "Negative Zero-Point-Energy Parameter in the Meyer–Miller Mapping Model for Nonadiabatic Dynamics", *Journal of Physical Chemistry Letters*, 2021, 12, 2496–2501 [link](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.1c00232) 
 
 ## Presentations & Talks
 * Comprehensive Phase Space Mapping Model for Nonadiabatic Quantum Dynamics.
@@ -67,7 +67,7 @@ Poster. The 18th National Conference on Chemical Dynamics, Dalian, August 2023.
 * Phase Space Mapping Approaches for Nonadiabatic Dynamics.
 Poster. The 33rd CCS Congress, Qingdao, June 2023.
 * Phase Space Mapping Approaches for Nonadiabatic Dynamics.
-Oral Presentation. The 4rd Frontier Forum for Physical Chemistry Graduates, Beijing, November 2022.
+Oral Presentation (online format). The 4rd Frontier Forum for Physical Chemistry Graduates, Beijing, November 2022.
 (Scientific Presentation)
 * Constraint Mapping Phase Space Nonadiabatic Dynamics.
 Poster. The 17th National Conference on Chemical Dynamics, Huangshan, August 2022.
