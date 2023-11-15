@@ -117,6 +117,7 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
   (Scientific Poster)
 
 * “Novel Phase Space Mapping Approaches for Nonadiabatic Quantum Dynamics“
+
   Oral Presentation (online format). ACS Fall 2022, Chicago, August 2022.
 
 * “Nonadiabatic Dynamics Methods Based On Constrained Phase Space Mapping Model“
