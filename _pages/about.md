@@ -85,6 +85,7 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 
 (†: co-first authors; \*: corresponding author)
 
+9.  Xin He, Xiangsong Cheng, **Baihua Wu**, Jian Liu\*, *Journal of Physical Chemistry Letters*, submitted
 8. **Baihua Wu**, Xin He, Jian Liu\*, "Nonadiabatic Field on Quantum Phase Space: A Century after Ehrenfest", *Journal of Physical Chemistry Letters*, 2024, 15, 644−658 [[Link]](https://doi.org/10.1021/acs.jpclett.3c03385)
 7. Jie Peng†, Xin He†, Yao Li, Jianxin Guan, **Baihua Wu**, Xinmao Li, Zhihao Yu, Jian Liu\*, Junrong Zheng\*, "Restriction of Crossing Conical Intersections: The Intrinsic Mechanism of Aggregation-Induced Emission", *Physical Chemistry Chemical Physics*, 2023, 25, 12342 [[Link]](https://doi.org/10.1039/d2cp05256c)
 6. **Baihua Wu†**, Xin He†, Jian Liu\*, "Phase Space Mapping Theory for Nonadiabatic Quantum Molecular Dynamics", Volume on *Time-Dependent Density Functional Theory: Nonadiabatic Molecular Dynamics*, Jenny Stanford Publishing, 2022 [[Link]](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003319214-11/)
