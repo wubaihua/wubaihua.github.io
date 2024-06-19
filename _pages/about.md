@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- #### **Baihua Wu** -->
 
-PhD candidate 
+PhD 
 
 Institute of Theoretical and Computational Chemistry
 
@@ -96,6 +96,14 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 1. Xin He†, Zhihao Gong†, **Baihua Wu**, Jian Liu\*, "Negative Zero-Point-Energy Parameter in the Meyer–Miller Mapping Model for Nonadiabatic Dynamics", *Journal of Physical Chemistry Letters*, 2021, 12, 2496–2501 [[Link]](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.1c00232) 
 
 ## Presentations & Talks
+* “Nonadiabatic Field“
+
+  Oral Presentation. The 34th CCS Congress, Guangzhou, June 2024.
+
+* “Phase Space Nonadiabatic Dynamics with Nonadiabatic Field“
+
+  Poster. The 5th Frontier Forum for Physical Chemistry Graduates, Beijing, May 2024.
+
 * “Comprehensive Phase Space Mapping Model for Nonadiabatic Quantum Dynamics”
 
   Poster. The 18th National Conference on Chemical Dynamics, Dalian, August 2023.
