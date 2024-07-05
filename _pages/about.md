@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- #### **Baihua Wu** -->
 
-PhD 
+PostDoc (Boya Felloswhip Program)
 
 Institute of Theoretical and Computational Chemistry
 
@@ -25,12 +25,21 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 
 
 ## Education/Work Experience
+- July 2024-present, 
 
-- Sept. 2019-present, 
+  PostDoc (Boya Felloswhip Program) in Theoretical Chemistry,
 
-  Ph.D. candidate in Theoretical Chemistry,
+  <!-- College of Chemistry and Molecular Engineering,  -->
 
-  College of Chemistry and Molecular Engineering, 
+  Peking University. 
+
+  Advisor: [Prof. Jian Liu](http://jianliugroup.pku.edu.cn/index.html)
+
+- Sept. 2019-June 2024, 
+
+  Ph.D. in Theoretical Chemistry,
+
+  <!-- College of Chemistry and Molecular Engineering,  -->
 
   Peking University. 
 
@@ -38,25 +47,25 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 
 - Sept. 2015-June 2019, 
 
-  B.S. in Chemistry,
+  B.S. in Chemistry and Mathematics,
 
-  Department of Chemistry and Chemical Engineering,
+  <!-- Department of Chemistry and Chemical Engineering, -->
 
-  School of Chemistry and Biological Engineering, 
+  <!-- School of Chemistry and Biological Engineering,  -->
 
   University of Science and Technology Beijing. 
 
   Advisor: [Prof. Feiwu Chen](http://en.huasheng.ustb.edu.cn/Faculty/Chemicalengineering/2019-10-12/13.html)
 
   
-
+<!-- 
   dual B.S. in Mathematics,
 
   Department of Mathematics and Applied Mathematics,
 
   School of Mathematics and Physics, 
 
-  University of Science and Technology Beijing. 
+  University of Science and Technology Beijing.  -->
 
 ​		
 
