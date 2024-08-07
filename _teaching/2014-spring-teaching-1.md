@@ -2,7 +2,7 @@
 title: "Quantum Chemistry"
 collection: teaching
 type: "Garadate/Undergraduate course"
-# permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2014-spring-teaching-1
 venue: "Peking University"
 date: Spring 2022
 # location: "City, Country"

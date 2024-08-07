@@ -2,7 +2,7 @@
 title: "Advanced Physical Chemistry"
 collection: teaching
 type: "Garadate course"
-# permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-1
 venue: "Peking University"
 date: Fall 2021
 # location: "City, Country"
