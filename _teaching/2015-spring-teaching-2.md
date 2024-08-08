@@ -4,7 +4,7 @@ collection: teaching
 type: "Garadate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Peking University"
-date: Fall 2021
+date: 2021-09-01
 location: "City, Country"
 ---
 
