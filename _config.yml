@@ -82,10 +82,7 @@ analytics:
 author:
   name             : "Baihua Wu"
   avatar           : "wubaihua.jfif"
-  bio              : |-
-                      PostDoc, PKU
-                      PhD, PKU
-                      BS, USTB
+  bio              : "PostDoc, PKU \n PhD, PKU \n BS, USTB"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
