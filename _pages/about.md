@@ -24,7 +24,7 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 
 
 
-## Education/Work Experience
+## <font color=Blue>Education/Work Experience</font>
 - July 2024-present, 
 
   PostDoc (Boya Felloswhip Program) in Theoretical Chemistry,
@@ -60,6 +60,7 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
   Advisor: [Prof. Feiwu Chen](http://en.huasheng.ustb.edu.cn/Faculty/Chemicalengineering/2019-10-12/13.html)
 
   
+
 <!-- 
   dual B.S. in Mathematics,
 
@@ -73,7 +74,7 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 
 
 
-## Research Interests
+## <font color=Blue>Research Interests</font>
 
 * Phase space mapping theory of quantum mechanics
 * Trajectory-based nonadiabatic dynamics
@@ -81,7 +82,7 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 
 
 
-## Honors & Awards
+## <font color=Blue>Honors & Awards</font>
 * Award for Scientific Research, Peking University, 2023
 * CIB Scholarship, Peking University, 2023
 * Award for Scientific Poster, Organizing Committee of the 18th Nation Conference on Chemical Dynamics, 2023
@@ -92,7 +93,7 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 * Wai Wing Lee Scholarship, Peking University, 2021
 * Award for Scientific Research, Peking University, 2021
 
-## Publications:
+## <font color=Blue>Publications:</font>
 
 (†: co-first authors; \*: corresponding author)
 
@@ -106,7 +107,7 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 2. Xin He, **Baihua Wu**, Zhihao Gong, Jian Liu\*, "Commutator Matrix in Phase Space Mapping Models for Nonadiabatic Quantum Dynamics", *Journal of Physical Chemistry A*, 2021, 125, 31, 6845–6863 [[Link]](https://doi.org/10.1021/acs.jpca.1c04429)  [[Correction]](https://doi.org/10.1021/acs.jpca.3c07974) 
 1. Xin He†, Zhihao Gong†, **Baihua Wu**, Jian Liu\*, "Negative Zero-Point-Energy Parameter in the Meyer–Miller Mapping Model for Nonadiabatic Dynamics", *Journal of Physical Chemistry Letters*, 2021, 12, 2496–2501 [[Link]](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.1c00232) 
 
-## Presentations & Talks
+## <font color=Blue>Presentations & Talks</font>
 * “Phase Space Nonadiabatic Dynamics with Nonadiabatic Field“
 
   Poster. International Workshop on New Advances in Theoretical and Computational Molecular Sciences for Complex and Quantum Processes (TMCQ2024), Seoul, Korea, July 2024
@@ -151,7 +152,7 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 
 
 
-## Teaching
+## <font color=Blue>Teaching</font>
 
 * TA, *Quantum Chemistry*, Peking University, 2022 Spring
 * TA, *Advanced Physical Chemistry*, Peking University, 2021 Fall
