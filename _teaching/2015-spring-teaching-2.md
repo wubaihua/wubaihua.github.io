@@ -5,7 +5,7 @@ type: "Garadate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Peking University"
 date: Fall 2021
-# location: "City, Country"
+location: "City, Country"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
