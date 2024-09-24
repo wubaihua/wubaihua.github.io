@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- #### **Baihua Wu** -->
 
-PostDoc (Boya Felloswhip Program)
+PostDoc (Boya Fellowship Program)
 
 Institute of Theoretical and Computational Chemistry
 
