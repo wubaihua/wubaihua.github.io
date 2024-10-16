@@ -108,6 +108,11 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 1. Xin He†, Zhihao Gong†, **Baihua Wu**, Jian Liu\*, "Negative Zero-Point-Energy Parameter in the Meyer–Miller Mapping Model for Nonadiabatic Dynamics", *Journal of Physical Chemistry Letters*, 2021, 12, 2496–2501 [[Link]](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.1c00232) 
 
 ## <font color=Blue>Presentations & Talks</font>
+
+* “Nonadiabatic Field on Quantum Phase Space“
+
+  Poster. 11th Triennial Congress of the International Society for Theoretical Chemical Physics (ISTCP2024), Qingdao, October 2024
+
 * “Phase Space Nonadiabatic Dynamics with Nonadiabatic Field“
 
   Poster. International Workshop on New Advances in Theoretical and Computational Molecular Sciences for Complex and Quantum Processes (TMCQ2024), Seoul, Korea, July 2024
