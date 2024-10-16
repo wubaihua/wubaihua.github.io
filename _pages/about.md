@@ -86,7 +86,7 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 * Award for Scientific Research, Peking University, 2023
 * CIB Scholarship, Peking University, 2023
 * Award for Scientific Poster, Organizing Committee of the 18th Nation Conference on Chemical Dynamics, 2023
-* Award for Scientific Oral Presentation, Organizing Committee of the 4rd Frontier Forum for Physical Chemistry Graduates, Peking University, 2022
+* Award for Scientific Oral Presentation, Organizing Committee of the 4th Frontier Forum for Physical Chemistry Graduates, Peking University, 2022
 * CIB Scholarship, Peking University, 2022
 * Award for Scientific Research, Peking University, 2022
 * Award for Scientific Poster, Organizing Committee of the 17th Nation Conference on Chemical Dynamics, 2022
@@ -137,7 +137,7 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 
 * “Phase Space Mapping Approaches for Nonadiabatic Dynamics“
 
-  Oral Presentation (online format). The 4rd Frontier Forum for Physical Chemistry Graduates, Beijing, November 2022.
+  Oral Presentation (online format). The 4th Frontier Forum for Physical Chemistry Graduates, Beijing, November 2022.
 
   (Scientific Presentation) [[Video Link]](https://www.bilibili.com/video/BV1g44y1S7BT)
 
