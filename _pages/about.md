@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- #### **Baihua Wu** -->
 
-PostDoc (Boya Felloswhip Program)
+PostDoc (Boya Fellowship Program)
 
 Institute of Theoretical and Computational Chemistry
 
@@ -24,7 +24,7 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 
 
 
-## Education/Work Experience
+## <font color=Blue>Education/Work Experience</font>
 - July 2024-present, 
 
   PostDoc (Boya Felloswhip Program) in Theoretical Chemistry,
@@ -60,6 +60,7 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
   Advisor: [Prof. Feiwu Chen](http://en.huasheng.ustb.edu.cn/Faculty/Chemicalengineering/2019-10-12/13.html)
 
   
+
 <!-- 
   dual B.S. in Mathematics,
 
@@ -73,7 +74,7 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 
 
 
-## Research Interests
+## <font color=Blue>Research Interests</font>
 
 * Phase space mapping theory of quantum mechanics
 * Trajectory-based nonadiabatic dynamics
@@ -81,18 +82,19 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 
 
 
-## Honors & Awards
+## <font color=Blue>Honors & Awards</font>
+* Q-CHEM Best Poster Award, Organizing Committee of the 11th Triennial Congress of the International Society for Theoretical Chemical Physics (ISTCP2024), 2024
 * Award for Scientific Research, Peking University, 2023
 * CIB Scholarship, Peking University, 2023
 * Award for Scientific Poster, Organizing Committee of the 18th Nation Conference on Chemical Dynamics, 2023
-* Award for Scientific Oral Presentation, Organizing Committee of the 4rd Frontier Forum for Physical Chemistry Graduates, Peking University, 2022
+* Award for Scientific Oral Presentation, Organizing Committee of the 4th Frontier Forum for Physical Chemistry Graduates, Peking University, 2022
 * CIB Scholarship, Peking University, 2022
 * Award for Scientific Research, Peking University, 2022
 * Award for Scientific Poster, Organizing Committee of the 17th Nation Conference on Chemical Dynamics, 2022
 * Wai Wing Lee Scholarship, Peking University, 2021
 * Award for Scientific Research, Peking University, 2021
 
-## Publications:
+## <font color=Blue>Publications:</font>
 
 (†: co-first authors; \*: corresponding author)
 10. Youhao Shang†, Xiangsong Cheng†, **Baihua Wu**, Xin He, Jian Liu\*, *Fundamental Research*, submitted
@@ -106,7 +108,18 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 2. Xin He, **Baihua Wu**, Zhihao Gong, Jian Liu\*, "Commutator Matrix in Phase Space Mapping Models for Nonadiabatic Quantum Dynamics", *Journal of Physical Chemistry A*, 2021, 125, 31, 6845–6863 [[Link]](https://doi.org/10.1021/acs.jpca.1c04429)  [[Correction]](https://doi.org/10.1021/acs.jpca.3c07974) 
 1. Xin He†, Zhihao Gong†, **Baihua Wu**, Jian Liu\*, "Negative Zero-Point-Energy Parameter in the Meyer–Miller Mapping Model for Nonadiabatic Dynamics", *Journal of Physical Chemistry Letters*, 2021, 12, 2496–2501 [[Link]](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.1c00232) 
 
-## Presentations & Talks
+## <font color=Blue>Presentations & Talks</font>
+
+* “Nonadiabatic Field on Quantum Phase Space“
+
+  Poster. 11th Triennial Congress of the International Society for Theoretical Chemical Physics (ISTCP2024), Qingdao, October 2024
+
+  (Best Poster Award)
+
+* “Phase Space Nonadiabatic Dynamics with Nonadiabatic Field“
+
+  Poster. International Workshop on New Advances in Theoretical and Computational Molecular Sciences for Complex and Quantum Processes (TMCQ2024), Seoul, Korea, July 2024
+
 * “Nonadiabatic Field“
 
   Oral Presentation. The 34th CCS Congress, Guangzhou, June 2024.
@@ -119,7 +132,7 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 
   Poster. The 18th National Conference on Chemical Dynamics, Dalian, August 2023.
 
-  (Scientific Poster)
+  (Scientific Poster Award)
 
 * “Phase Space Mapping Approaches for Nonadiabatic Dynamics“
 
@@ -127,19 +140,19 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 
 * “Phase Space Mapping Approaches for Nonadiabatic Dynamics“
 
-  Oral Presentation (online format). The 4rd Frontier Forum for Physical Chemistry Graduates, Beijing, November 2022.
+  Oral Presentation (online format). The 4th Frontier Forum for Physical Chemistry Graduates, Beijing, November 2022.
 
-  (Scientific Presentation) [[Video Link]](https://www.bilibili.com/video/BV1g44y1S7BT)
+  (Scientific Presentation Award) [[Video Link]](https://www.bilibili.com/video/BV1g44y1S7BT)
 
 * “Constraint Mapping Phase Space Nonadiabatic Dynamics“
 
   Poster. The 17th National Conference on Chemical Dynamics, Huangshan, August 2022.
 
-  (Scientific Poster)
+  (Scientific Poster Award)
 
 * “Novel Phase Space Mapping Approaches for Nonadiabatic Quantum Dynamics“
 
-  Oral Presentation (online format). ACS Fall 2022, Chicago, August 2022.
+  Oral Presentation (online format). ACS Fall 2022, Chicago, USA, August 2022.
 
 * “Nonadiabatic Dynamics Methods Based On Constrained Phase Space Mapping Model“
 
@@ -147,7 +160,7 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 
 
 
-## Teaching
+## <font color=Blue>Teaching</font>
 
 * TA, *Quantum Chemistry*, Peking University, 2022 Spring
 * TA, *Advanced Physical Chemistry*, Peking University, 2021 Fall
