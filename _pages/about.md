@@ -97,6 +97,7 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 ## <font color=Blue>Publications:</font>
 
 (†: co-first authors; \*: corresponding author)
+11. **Baihua Wu†**, Bingqi Li†, Xin He†, Xiangsong Cheng, Jiajun Ren, Jian Liu\*, *Journal of Chemical Theory and Computation*, submitted
 10. Youhao Shang†, Xiangsong Cheng†, **Baihua Wu**, Xin He, Jian Liu\*, *Fundamental Research*, submitted
 9.  Xin He, Xiangsong Cheng, **Baihua Wu**, Jian Liu\*, "Nonadiabatic Field with Triangle Window Functions on Quantum Phase Space", *Journal of Physical Chemistry Letters*, 2024, 15, 5452-5466 [[Link]](https://doi.org/10.1021/acs.jpclett.4c00793)
 8. **Baihua Wu**, Xin He, Jian Liu\*, "Nonadiabatic Field on Quantum Phase Space: A Century after Ehrenfest", *Journal of Physical Chemistry Letters*, 2024, 15, 644−658 [[Link]](https://doi.org/10.1021/acs.jpclett.3c03385)
