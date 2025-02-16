@@ -86,11 +86,11 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 * Q-CHEM Best Poster Award, Organizing Committee of the 11th Triennial Congress of the International Society for Theoretical Chemical Physics (ISTCP2024), 2024
 * Award for Scientific Research, Peking University, 2023
 * CIB Scholarship, Peking University, 2023
-* Award for Scientific Poster, Organizing Committee of the 18th Nation Conference on Chemical Dynamics, 2023
+* Award for Scientific Poster, Organizing Committee of the 18th National Conference on Chemical Dynamics, 2023
 * Award for Scientific Oral Presentation, Organizing Committee of the 4th Frontier Forum for Physical Chemistry Graduates, Peking University, 2022
 * CIB Scholarship, Peking University, 2022
 * Award for Scientific Research, Peking University, 2022
-* Award for Scientific Poster, Organizing Committee of the 17th Nation Conference on Chemical Dynamics, 2022
+* Award for Scientific Poster, Organizing Committee of the 17th National Conference on Chemical Dynamics, 2022
 * Wai Wing Lee Scholarship, Peking University, 2021
 * Award for Scientific Research, Peking University, 2021
 
