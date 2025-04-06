@@ -109,7 +109,7 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 1. Xin He†, Zhihao Gong†, **Baihua Wu**, Jian Liu\*, "Negative Zero-Point-Energy Parameter in the Meyer–Miller Mapping Model for Nonadiabatic Dynamics", *Journal of Physical Chemistry Letters*, 2021, 12, 2496–2501 [[Link]](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.1c00232) 
 
 ## <font color=Blue>Presentations & Talks</font>
-* "Methods for Ultrafast Photochemical Processes"
+* "Theoretical Methods for Ultrafast Photochemical Processes"
 
   Lecture. 2025 Peking University Spring School on Quantum Molecular Dynamics, Beijing, April 2025
 
