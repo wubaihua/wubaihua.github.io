@@ -97,7 +97,7 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 ## <font color=Blue>Publications:</font>
 
 (†: co-first authors; \*: corresponding author)
-10. **Baihua Wu†**, Bingqi Li†, Xin He†, Xiangsong Cheng, Jiajun Ren, Jian Liu\*, "Nonadiabatic Field: A Conceptually Novel Approach for Nonadiabatic Quantum Molecular Dynamics", *Journal of Chemical Theory and Computation*, accepted
+10. **Baihua Wu†**, Bingqi Li†, Xin He†, Xiangsong Cheng, Jiajun Ren, Jian Liu\*, "Nonadiabatic Field: A Conceptually Novel Approach for Nonadiabatic Quantum Molecular Dynamics", *Journal of Chemical Theory and Computation*, 2025, in press
 9.  Xin He, Xiangsong Cheng, **Baihua Wu**, Jian Liu\*, "Nonadiabatic Field with Triangle Window Functions on Quantum Phase Space", *Journal of Physical Chemistry Letters*, 2024, 15, 5452-5466 [[Link]](https://doi.org/10.1021/acs.jpclett.4c00793)
 8. **Baihua Wu**, Xin He, Jian Liu\*, "Nonadiabatic Field on Quantum Phase Space: A Century after Ehrenfest", *Journal of Physical Chemistry Letters*, 2024, 15, 644−658 [[Link]](https://doi.org/10.1021/acs.jpclett.3c03385)
 7. Jie Peng†, Xin He†, Yao Li, Jianxin Guan, **Baihua Wu**, Xinmao Li, Zhihao Yu, Jian Liu\*, Junrong Zheng\*, "Restriction of Crossing Conical Intersections: The Intrinsic Mechanism of Aggregation-Induced Emission", *Physical Chemistry Chemical Physics*, 2023, 25, 12342 [[Link]](https://doi.org/10.1039/d2cp05256c)
@@ -109,6 +109,9 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 1. Xin He†, Zhihao Gong†, **Baihua Wu**, Jian Liu\*, "Negative Zero-Point-Energy Parameter in the Meyer–Miller Mapping Model for Nonadiabatic Dynamics", *Journal of Physical Chemistry Letters*, 2021, 12, 2496–2501 [[Link]](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.1c00232) 
 
 ## <font color=Blue>Presentations & Talks</font>
+* "Methods for Ultrafast Photochemical Processes"
+
+  Lecture. 2025 Peking University Spring School on Quantum Molecular Dynamics, Beijing, April 2025
 
 * “Nonadiabatic Field on Quantum Phase Space“
 
@@ -162,6 +165,7 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 
 ## <font color=Blue>Teaching</font>
 
+* Lecturer, *2025 Peking University Spring School on Quantum Molecular Dynamics*, Peking University, April 2025
 * TA, *Quantum Chemistry*, Peking University, 2022 Spring
 * TA, *Advanced Physical Chemistry*, Peking University, 2021 Fall
 * TA, *Theoretical and Computational Chemistry II*, Peking University, 2020 Fall
