@@ -83,14 +83,14 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 
 
 ## <font color=Blue>Honors & Awards</font>
-* Q-CHEM Best Poster Award, Organizing Committee of the 11th Triennial Congress of the International Society for Theoretical Chemical Physics (ISTCP2024), 2024
+* Q-CHEM Excellent Poster Award, Organizing Committee of the 11th Triennial Congress of the International Society for Theoretical Chemical Physics (ISTCP2024), 2024
 * Award for Scientific Research, Peking University, 2023
 * CIB Scholarship, Peking University, 2023
-* Award for Scientific Poster, Organizing Committee of the 18th National Conference on Chemical Dynamics, 2023
-* Award for Scientific Oral Presentation, Organizing Committee of the 4th Frontier Forum for Physical Chemistry Graduates, Peking University, 2022
+* Award for Excellent Poster, Organizing Committee of the 18th National Conference on Chemical Dynamics, 2023
+* Award for Excellent Oral Presentation, Organizing Committee of the 4th Frontier Forum for Physical Chemistry Graduates, Peking University, 2022
 * CIB Scholarship, Peking University, 2022
 * Award for Scientific Research, Peking University, 2022
-* Award for Scientific Poster, Organizing Committee of the 17th National Conference on Chemical Dynamics, 2022
+* Award for Excellent Poster, Organizing Committee of the 17th National Conference on Chemical Dynamics, 2022
 * Wai Wing Lee Scholarship, Peking University, 2021
 * Award for Scientific Research, Peking University, 2021
 
@@ -117,7 +117,7 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 
   Poster. 11th Triennial Congress of the International Society for Theoretical Chemical Physics (ISTCP2024), Qingdao, October 2024
 
-  (Best Poster Award)
+  (Excellent Poster Award)
 
 * “Phase Space Nonadiabatic Dynamics with Nonadiabatic Field“
 
@@ -135,7 +135,7 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 
   Poster. The 18th National Conference on Chemical Dynamics, Dalian, August 2023.
 
-  (Scientific Poster Award)
+  (Excellent Poster Award)
 
 * “Phase Space Mapping Approaches for Nonadiabatic Dynamics“
 
@@ -145,13 +145,13 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 
   Oral Presentation (online format). The 4th Frontier Forum for Physical Chemistry Graduates, Beijing, November 2022.
 
-  (Scientific Presentation Award) [[Video Link]](https://www.bilibili.com/video/BV1g44y1S7BT)
+  (Excellent Presentation Award) [[Video Link]](https://www.bilibili.com/video/BV1g44y1S7BT)
 
 * “Constraint Mapping Phase Space Nonadiabatic Dynamics“
 
   Poster. The 17th National Conference on Chemical Dynamics, Huangshan, August 2022.
 
-  (Scientific Poster Award)
+  (Excellent Poster Award)
 
 * “Novel Phase Space Mapping Approaches for Nonadiabatic Quantum Dynamics“
 
