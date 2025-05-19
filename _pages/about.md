@@ -111,6 +111,10 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 ## <font color=Blue>Presentations & Talks</font>
 * “Nonadiabatic Field on Quantum Phase Space“
 
+  Poster. Beijing Molecular Sciences Conference 2025 (BMS2025), Beijing, May 2025
+
+* “Nonadiabatic Field on Quantum Phase Space“
+
   Poster. The 11th Conference of the Asia-Pacific Association of Theoretical and Computational Chemists (APATCC11), Kobe, Japan, April 2025
 
 * "Theoretical Methods for Ultrafast Photochemical Processes"
