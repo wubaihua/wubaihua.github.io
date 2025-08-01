@@ -111,6 +111,10 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 ## <font color=Blue>Presentations & Talks</font>
 * “Nonadiabatic Field on Quantum Phase Space“
 
+  Poster. Workshop: Ab Initio Theory from Molecules to Materials, Beijing, July 2025
+
+* “Nonadiabatic Field on Quantum Phase Space“
+
   Poster. Beijing Molecular Sciences Conference 2025 (BMS2025), Beijing, May 2025
 
 * “Nonadiabatic Field on Quantum Phase Space“
@@ -177,3 +181,11 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 * TA, *Quantum Chemistry*, Peking University, 2022 Spring
 * TA, *Advanced Physical Chemistry*, Peking University, 2021 Fall
 * TA, *Theoretical and Computational Chemistry II*, Peking University, 2020 Fall
+
+
+## <font color=Blue>Services</font>
+
+* Member, Organizing Committee of Workshop: Ab Initio Theory from Molecules to Materials, July 2025
+* Member, Organizing Committee of 2025 Peking University Quantum Molecular Dynamics Summer School, July 2025
+* Member, Organizing Committee of 2025 Peking University Spring School on Quantum Molecular Dynamics, April 2025
+* Member, Organizing Committee of Advanced Symposium on Quantum Molecular Dynamics at Peking University, July 2023
