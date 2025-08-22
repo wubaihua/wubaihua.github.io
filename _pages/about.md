@@ -27,7 +27,7 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 ## <font color=Blue>Education/Work Experience</font>
 - July 2024-present, 
 
-  PostDoc (Boya Felloswhip Program) in Theoretical Chemistry,
+  PostDoc (Boya Fellowship Program) in Theoretical Chemistry,
 
   <!-- College of Chemistry and Molecular Engineering,  -->
 
@@ -109,6 +109,14 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 1. Xin He†, Zhihao Gong†, **Baihua Wu**, Jian Liu\*, "Negative Zero-Point-Energy Parameter in the Meyer–Miller Mapping Model for Nonadiabatic Dynamics", *Journal of Physical Chemistry Letters*, 2021, 12, 2496–2501 [[Link]](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.1c00232) 
 
 ## <font color=Blue>Presentations & Talks</font>
+* “Nonadiabatic Field on Quantum Phase Space“
+
+  Invited Talk. South China Normal University, Guangzhou, August 21, 2025
+
+* “Phase Space Mapping Approaches for Nonadiabatic Dynamics“
+
+  Invited Talk. South China Normal University, Guangzhou, August 20, 2025
+
 * “Nonadiabatic Field on Quantum Phase Space“
 
   Poster. Workshop: Ab Initio Theory from Molecules to Materials, Beijing, July 2025
