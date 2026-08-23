@@ -10,22 +10,30 @@ redirect_from:
 
 <!-- #### **Baihua Wu** -->
 
-PostDoc (Boya Fellowship Program)
+PostDoc
 
-Institute of Theoretical and Computational Chemistry
+Laboratory for Chemistry of Novel Materials
 
-College of Chemistry and Molecular Engineering
+University of Mons
 
-Peking University
+Mons 7000, Belgium
 
-Beijing 100871, China
-
-Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
+Email: Baihua.Wu[AT]umons.ac.be;   wubaihua19[AT]gmail.com
 
 
 
 ## <font color=Blue>Education/Work Experience</font>
-- July 2024-present, 
+- Aug. 2026-present,
+
+  PostDoc in Theoretical Chemistry,
+
+  <!-- College of Chemistry and Molecular Engineering,  -->
+
+  University of Mons.
+
+  Advisor: [Prof. David Beljonne](https://www.davidbeljonne.be/)
+
+- July 2024-May 2026, 
 
   PostDoc (Boya Fellowship Program) in Theoretical Chemistry,
 
@@ -78,7 +86,8 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 
 * Phase space mapping theory of quantum mechanics
 * Trajectory-based nonadiabatic dynamics
-* Electronic structure theory and its applications
+* Electronic structure methods
+* Dynamical mean-field theory and applications on organic semiconductor
 
 
 
@@ -193,6 +202,7 @@ Email: wubaihua[AT]pku.edu.cn;   wubaihua19[AT]gmail.com
 
 ## <font color=Blue>Services</font>
 
+* Member, Organizing Committee of Summer School: Forum of Frontiers in Ab Initio Quantum Molecular Dynamics (AIQMD2026), July 2026
 * Member, Organizing Committee of Workshop: Ab Initio Theory from Molecules to Materials, July 2025
 * Member, Organizing Committee of 2025 Peking University Quantum Molecular Dynamics Summer School, July 2025
 * Member, Organizing Committee of 2025 Peking University Spring School on Quantum Molecular Dynamics, April 2025
