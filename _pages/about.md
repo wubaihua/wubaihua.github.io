@@ -203,6 +203,7 @@ Email: Baihua.Wu[AT]umons.ac.be;   wubaihua19[AT]gmail.com
 
 ## <font color=Blue>Services</font>
 
+* Reviewer, *Communications in Computational Chemistry*
 * Member, Organizing Committee of Summer School: Forum of Frontiers in Ab Initio Quantum Molecular Dynamics (AIQMD2026), July 2026
 * Member, Organizing Committee of Workshop: Ab Initio Theory from Molecules to Materials, July 2025
 * Member, Organizing Committee of 2025 Peking University Quantum Molecular Dynamics Summer School, July 2025
