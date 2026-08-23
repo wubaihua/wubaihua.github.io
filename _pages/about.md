@@ -93,6 +93,7 @@ Email: Baihua.Wu[AT]umons.ac.be;   wubaihua19[AT]gmail.com
 
 ## <font color=Blue>Honors & Awards</font>
 * Q-CHEM Excellent Poster Award, Organizing Committee of the 11th Triennial Congress of the International Society for Theoretical Chemical Physics (ISTCP2024), 2024
+* Boya Postdoc Fellowship, Peking University, 2024
 * Award for Scientific Research, Peking University, 2023
 * CIB Scholarship, Peking University, 2023
 * Award for Excellent Poster, Organizing Committee of the 18th National Conference on Chemical Dynamics, 2023
